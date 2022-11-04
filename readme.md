@@ -57,6 +57,8 @@ sudo cp iPhoneSimulator/* /Applications/Xcode.app/Contents/Developer/Platforms/i
 执行即可运行脚本
 ```
 sh install.sh
+
+或者执行
 ./install.sh
 
 ```
